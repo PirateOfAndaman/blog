@@ -3,23 +3,8 @@ title: "Welcome to MyBlog"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my personal blog. This site will contain editorials about my personal projects or any interesting side activity that I do. Currently, I'm interested in learning a bit of system programming so I can see for myself how things actually get executed under the hood. And on the side, I use C++ and Python for doing some physics/math simulations. 
 
+Apart from coding I like running, cycling, and swimming a lot. I'm also a certified open-water scuba diver, which is like the most basic certification you can get.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This site is based on Jekyll because it was the easiest way to set up a static site in the shortest amount of time. Also, it integrates extremely well with GitHub pages making it extremely easy to host. And adding new blog pages is just adding a file to my post directory and committing that change. So overall a very easy-to-use setup for someone who doesn't know much about web development. Or anyone who doesn't want to bother much about setting up a whole tech stack to host a blog.
